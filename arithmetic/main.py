@@ -5,6 +5,7 @@ from utils import canonical_form
 from models import Number
 from utils import format_expression
 
+# 主函数
 def main():
     args = parse_args()
 
